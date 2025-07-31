@@ -7,7 +7,7 @@
 #include <iomanip>
 #include <chrono>
 
-#define TILE 4
+#define TILE 32
 
 void matmul(const std::vector<double> &a, const std::vector<double> &b,
             std::vector<double> &d,
